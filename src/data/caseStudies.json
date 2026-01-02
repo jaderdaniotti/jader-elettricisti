@@ -1,0 +1,45 @@
+[
+  {
+    "id": "uffici-milano-2024",
+    "title": "Ristrutturazione Impianto Elettrico - Complesso Uffici Milano",
+    "slug": "uffici-milano-2024",
+    "client": "Azienda Manifatturiera",
+    "location": "Milano",
+    "year": "2024",
+    "description": "Completa ristrutturazione dell'impianto elettrico di un complesso di uffici di 2000 mq con modernizzazione e certificazione.",
+    "image": "elettricisti1",
+    "challenge": "Impianto elettrico obsoleto degli anni '80, necessità di modernizzazione completa mantenendo l'operatività dell'azienda.",
+    "solution": "Progettazione e installazione di nuovo impianto a norma CEI con sistemi di automazione, illuminazione LED e certificazione completa.",
+    "results": {
+      "metrics": [
+        "2000 mq ristrutturati",
+        "100% conformità normativa",
+        "30% risparmio energetico",
+        "0 giorni di fermo produzione"
+      ]
+    },
+    "services": ["Elettricità Industriale", "Quadri Elettrici", "Illuminazione LED", "Certificazioni"]
+  },
+  {
+    "id": "fotovoltaico-torino-2023",
+    "title": "Installazione Impianto Fotovoltaico - Azienda Agricola",
+    "slug": "fotovoltaico-torino-2023",
+    "client": "Azienda Agricola",
+    "location": "Torino",
+    "year": "2023",
+    "description": "Installazione impianto fotovoltaico da 50kWp con sistema di monitoraggio e accesso agli incentivi.",
+    "image": "pannelli",
+    "challenge": "Ridurre i costi energetici dell'azienda agricola sfruttando gli incentivi disponibili per il fotovoltaico.",
+    "solution": "Progettazione e installazione impianto fotovoltaico su copertura, gestione pratiche per incentivi, sistema di monitoraggio performance.",
+    "results": {
+      "metrics": [
+        "50kWp installati",
+        "40% riduzione bolletta",
+        "Incentivi ottenuti",
+        "ROI in 7 anni"
+      ]
+    },
+    "services": ["Impianti Fotovoltaici", "Certificazioni", "Monitoraggio"]
+  }
+]
+

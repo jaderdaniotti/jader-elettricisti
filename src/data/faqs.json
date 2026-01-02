@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "question": "Quali sono i tempi di intervento per un'emergenza elettrica?",
+    "answer": "Offriamo servizio di pronto intervento 24/7. In caso di emergenza, il nostro tecnico arriva entro 2 ore dalla chiamata nell'area metropolitana."
+  },
+  {
+    "id": 2,
+    "question": "Fornite certificazioni per gli impianti installati?",
+    "answer": "Sì, rilasciamo tutte le certificazioni necessarie secondo la normativa CEI vigente. Ogni impianto viene collaudato e certificato prima della consegna."
+  },
+  {
+    "id": 3,
+    "question": "Quanto costa un preventivo?",
+    "answer": "Il sopralluogo e il preventivo sono completamente gratuiti. Offriamo preventivi dettagliati entro 24-48 ore dalla richiesta."
+  },
+  {
+    "id": 4,
+    "question": "Lavorate anche in alta quota?",
+    "answer": "Sì, abbiamo team specializzati per interventi in alta quota con certificazioni specifiche e attrezzature professionali."
+  },
+  {
+    "id": 5,
+    "question": "Offrite garanzia sui lavori?",
+    "answer": "Tutti i nostri interventi sono coperti da garanzia. L'impianto elettrico ha garanzia di 2 anni, mentre i componenti seguono la garanzia del produttore."
+  }
+]
+

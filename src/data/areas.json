@@ -1,0 +1,24 @@
+[
+  {
+    "id": "milano",
+    "name": "Milano",
+    "slug": "milano",
+    "description": "Servizi elettrici professionali a Milano e provincia. Interventi rapidi in tutta l'area metropolitana.",
+    "services": ["Elettricità Civile", "Impianti Industriali", "Fotovoltaico", "Manutenzione 24/7"]
+  },
+  {
+    "id": "torino",
+    "name": "Torino",
+    "slug": "torino",
+    "description": "Elettricisti esperti a Torino. Installazioni, manutenzioni e interventi di emergenza.",
+    "services": ["Elettricità Civile", "Quadri Elettrici", "Illuminazione LED", "Pronto Intervento"]
+  },
+  {
+    "id": "roma",
+    "name": "Roma",
+    "slug": "roma",
+    "description": "Servizi elettrici completi a Roma. Team qualificato per ogni tipo di intervento.",
+    "services": ["Elettricità Civile", "Fotovoltaico", "Domotica", "Certificazioni"]
+  }
+]
+

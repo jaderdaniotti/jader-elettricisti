@@ -1,0 +1,93 @@
+[
+  {
+    "id": "interventi-alta-quota",
+    "title": "Interventi in Alta Quota",
+    "slug": "interventi-alta-quota",
+    "description": "Installazioni e manutenzioni elettriche su edifici alti, pali, tralicci e strutture industriali. Team specializzato con certificazioni di sicurezza.",
+    "image": "interventoaltaquota",
+    "features": [
+      "Installazione impianti esterni",
+      "Manutenzione linee aeree",
+      "Certificazioni di sicurezza",
+      "Attrezzature professionali",
+      "Team qualificato"
+    ],
+    "icon": "Building2"
+  },
+  {
+    "id": "fotovoltaico",
+    "title": "Impianti Fotovoltaici",
+    "slug": "fotovoltaico",
+    "description": "Impianti fotovoltaici chiavi in mano per abitazioni e aziende. Progettazione, installazione e manutenzione di sistemi ad energia solare.",
+    "image": "pannelli",
+    "features": [
+      "Progettazione su misura",
+      "Bonifiche e incentivi",
+      "Manutenzione programmata",
+      "Monitoraggio performance",
+      "Garanzia estesa"
+    ],
+    "icon": "Zap"
+  },
+  {
+    "id": "quadri-elettrici",
+    "title": "Quadri Elettrici e Automazione",
+    "slug": "quadri-elettrici",
+    "description": "Progettazione, installazione e manutenzione di quadri elettrici civili e industriali. Sistemi di automazione domotica e building automation.",
+    "image": "quadroelettrico",
+    "features": [
+      "Quadri a norma CEI",
+      "Domotica e smart home",
+      "Manutenzione preventiva",
+      "Automazione industriale",
+      "Certificazioni"
+    ],
+    "icon": "Settings"
+  },
+  {
+    "id": "elettricita-civile",
+    "title": "Elettricità Civile",
+    "slug": "elettricita-civile",
+    "description": "Installazioni elettriche complete per nuove costruzioni e ristrutturazioni. Ristrutturazione impianti esistenti, certificazioni e collaudi.",
+    "image": "elettricisti1",
+    "features": [
+      "Nuove installazioni",
+      "Ristrutturazioni complete",
+      "Certificazioni e collaudi",
+      "Progettazione personalizzata",
+      "Conformità normativa"
+    ],
+    "icon": "HomeIcon"
+  },
+  {
+    "id": "manutenzione",
+    "title": "Manutenzione e Riparazioni",
+    "slug": "manutenzione",
+    "description": "Interventi rapidi per guasti e malfunzionamenti. Servizio di pronto intervento 24/7 per emergenze elettriche.",
+    "image": "elettricisti2",
+    "features": [
+      "Pronto intervento 24/7",
+      "Diagnosi e riparazioni",
+      "Manutenzione preventiva",
+      "Sostituzione componenti",
+      "Assistenza tecnica"
+    ],
+    "icon": "Wrench"
+  },
+  {
+    "id": "illuminazione",
+    "title": "Illuminazione Professionale",
+    "slug": "illuminazione",
+    "description": "Progettazione e installazione di sistemi di illuminazione LED per interni ed esterni. Soluzioni energetiche efficienti.",
+    "image": "elettricisti3",
+    "features": [
+      "LED ad alta efficienza",
+      "Design personalizzato",
+      "Risparmio energetico",
+      "Sistemi smart lighting",
+      "Consulenza illuminotecnica"
+    ],
+    "icon": "Lightbulb"
+  }
+]
+
